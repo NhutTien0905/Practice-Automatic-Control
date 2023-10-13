@@ -1,2 +1,3 @@
 # Practice-Automatic-Control
-CNN for CNC machine
+
+Ae up code nhớ kèm hướng dẫn sử dụng (tạo 1 readme.md)
